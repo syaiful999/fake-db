@@ -1,1 +1,10 @@
 
+{
+"pengguna":[{
+  "id":1,
+  "nama":"test",
+  "email":"ane@gmail.com",
+  "phone":08122922222,
+  "alamat":"jalan-jalan"
+  }]
+}
