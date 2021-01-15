@@ -1,8 +1,1 @@
-{
-  "users": [{
-    "title": "string",
-    "views": "int",
-    "published": "boolean",
-    "createdAt": "date"
-  }]
-}
+
