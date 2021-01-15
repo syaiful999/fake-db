@@ -1,6 +1,8 @@
-
 {
-"user":{
-"id": 1
-}
+  "Post": {
+    "title": "string",
+    "views": "int",
+    "published": "boolean",
+    "createdAt": "date"
+  }
 }
